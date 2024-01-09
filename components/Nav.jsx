@@ -17,8 +17,8 @@ const links = [
     offset: -150,
   },
   {
-    path: "contact",
-    name: "contact",
+    path: "location",
+    name: "location",
     offset: 0,
   },
 ];

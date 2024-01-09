@@ -13,7 +13,7 @@ const About = () => {
     >
       {/* text */}
       <motion.div
-        variants={fadeIn("left", 0.4)}
+        variants={fadeIn("right", 0.2)}
         initial="hidden"
         whileInView={"show"}
         viewport={{ once: false, amount: 0.2 }}
